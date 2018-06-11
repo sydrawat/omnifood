@@ -1,3 +1,6 @@
+/* 
+* Media queries for various layouts of the website
+*/
 
 /* big tablets to 1200px (widths smaller than 1140px row that we defined) */
 @media only screen and (max-width: 1200px) {
