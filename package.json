@@ -1,0 +1,22 @@
+{
+  "name": "omnifood",
+  "version": "1.0.0",
+  "description": "Landing page for a food delivery startup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sydrawat/omnifood.git"
+  },
+  "author": "Siddharth Rawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sydrawat/omnifood/issues"
+  },
+  "homepage": "https://github.com/sydrawat/omnifood#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
